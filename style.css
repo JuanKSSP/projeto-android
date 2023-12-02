@@ -118,10 +118,11 @@ section#Notícias{
     background-color: #90ee90;
 }
 section#Fale-conosco{
+    font-family: var(--fonte-padrao);
     background-color: black;
     text-align: center;
     width: 75vw;
-    padding: 10px;  
+    padding: 5px 10px 5px 5px;  
 }
 a{
     text-decoration: none;
@@ -129,7 +130,7 @@ a{
 .imagem{
     display: flex;
     position: relative;
-    left: -88px;
+    left: -37px;
     width: 50vw;
     padding: 10px;
 }
